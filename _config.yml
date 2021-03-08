@@ -27,6 +27,22 @@ url: "https://yjleeginter.github.io" # the base hostname & protocol for your sit
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Fields mainima uses, but are not defaulted with the jekyll new command.
+# Author is the default for posts, the atom feed, and is used in the footer
+author : Lee Ginter
+linkedin_username: yeonlee584
+
+# New fields not defaulted by jekyll-new with the minima theme
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: Company Name, Inc.
+copyright: "Lee Ginter"
+
+# title-logo is a new field that, when used, displays a logo
+# instead of custom text. Ideally, image is 50px high and takes up
+# minimal horizontal space. Tested with a new root "images" folder e.g:
+# title-logo: /images/my-logo.png(or JPG, etc.)
+title-logo: /images/title-logo.png
+
 # Build settings
 # Removed minima theme as it is now a regular theme
 # theme: minima
